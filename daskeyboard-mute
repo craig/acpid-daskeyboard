@@ -1,0 +1,3 @@
+# daskeyboard-mute
+event=button/mute MUTE 00000080 00000000 K
+action=/usr/bin/amixer sset Master toggle

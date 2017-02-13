@@ -1,0 +1,3 @@
+# daskeyboard-sleep
+event=button/sleep SBTN 00000080 00000000 K
+action=/usr/bin/acpitool -S
