@@ -20,5 +20,5 @@ You can use "acpi_listen" to verify your keyboard sends the correct events:
 > button/sleep SBTN 00000080 00000000 K
 
 This is using amixer to change volume and acpitool for S3 sleep mode.
-Tested on debian8.
+Tested on debian 8 and debian 9.
 
