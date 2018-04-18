@@ -1,6 +1,6 @@
 # acpid-daskeyboard
 acpid events files for daskeyboard 4 professional.
-Tested on Debian 8 and Debian 9.
+Tested on Debian 8, Debian 9 and Gentoo Linux.
 
 Requires:
 - amixer for volume control an
